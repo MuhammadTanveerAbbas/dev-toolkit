@@ -90,4 +90,4 @@ Full refund if deadline missed.
 
 ---
 
-MIT License · © 2025 Muhammad Tanveer Abbas
+MIT License · © 2026 Muhammad Tanveer Abbas
